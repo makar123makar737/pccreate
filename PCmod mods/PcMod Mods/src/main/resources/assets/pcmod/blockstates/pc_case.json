@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "pcmod:pc_case" }
+    }
+}
