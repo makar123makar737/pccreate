@@ -1,0 +1,9 @@
+# Инструменты
+item.screwdriver.name=Отвёртка
+item.thermal_paste.name=Термопаста
+
+# Блоки
+tile.pc_case.name=Корпус ПК
+
+# Вкладка в креативе
+itemGroup.pcmod=Комплектующие ПК

@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "pcmod",
+    "name": "PC Assembly Mod",
+    "description": "Собери свой компьютер в Minecraft! Процессоры Intel Core i9/i7/i5/i3 и AMD Ryzen 9/7/5/3, видеокарты NVIDIA RTX 4090-1660 и AMD RX 7900-6600, материнские платы ASUS/MSI/Gigabyte, оперативная память DDR4/DDR5, накопители HDD/SSD/NVMe, блоки питания 450W-1200W с сертификатами 80+ Bronze/ Gold/ Platinum/ Titanium. Проверка совместимости сокетов, расчёт энергопотребления и производительности!",
+    "version": "1.0.0",
+    "mcversion": "1.12.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["PCMod Team"],
+    "credits": "Intel, AMD, NVIDIA, Corsair, ASUS, MSI, Gigabyte, Noctua, NZXT, SeaSonic, EVGA",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

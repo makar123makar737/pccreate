@@ -1,0 +1,9 @@
+# Tools
+item.screwdriver.name=Screwdriver
+item.thermal_paste.name=Thermal Paste
+
+# Blocks
+tile.pc_case.name=PC Case
+
+# Creative Tab
+itemGroup.pcmod=PC Components

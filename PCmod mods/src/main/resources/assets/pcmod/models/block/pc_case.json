@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "pcmod:blocks/pc_case"
+    }
+}
