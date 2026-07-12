@@ -7,13 +7,11 @@ buildscript {
         classpath 'net.minecraftforge.gradle:ForgeGradle:2.3-SNAPSHOT'
     }
 }
-
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = '1.0'
 group = 'com.pcmod'
 archivesBaseName = 'pcmod'
-
 sourceCompatibility = targetCompatibility = '1.8'
 
 minecraft {
@@ -22,9 +20,7 @@ minecraft {
     mappings = 'stable_39'
 }
 
-dependencies {
-    // пусто
-}
+dependencies {}
 
 jar {
     manifest {
